@@ -1,4 +1,5 @@
 Hello Everyone...
 how are you?//line is edited by dev1
 line no 3//line edited by dev2
+new line is added by dev1
 line 5 is added
