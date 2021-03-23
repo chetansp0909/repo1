@@ -5,4 +5,4 @@ new line is added by dev1
 line 5 is added
 line 6 added again
 added
-
+line 7 is added by dev2
